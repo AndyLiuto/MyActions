@@ -34,4 +34,4 @@ jobs:
           node lxk0301_old.js
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}
-          SYNCURL: https://github.com/AndyLiuto/JD/blob/main/jd_pet.js
+          SYNCURL: https://toscode.gitee.com/lcy7011/scripts/blob/master/jd_pet.js
