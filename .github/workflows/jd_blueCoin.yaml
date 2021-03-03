@@ -37,4 +37,4 @@ jobs:
                   node lxk0301.js
               env:
                   JD_COOKIE: ${{ secrets.JD_COOKIE }}
-                  SYNCURL: https://github.com/lxk0301/scripts/raw/master/jd_blueCoin.js
+                  SYNCURL: https://github.com/AndyLiuto/JD/blob/main/jd_blueCoin.js
